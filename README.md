@@ -1,4 +1,4 @@
-A real-time smart autonomous car equipped with ESP32-CAM, Arduino, servo and gear motors, and ultrasonic sensors for obstacle avoidance. The system uses YOLOv4-Tiny and OpenCV for object detection and classification. Designed to operate efficiently on limited hardware, this project integrates machine learning, computer vision, and embedded systems to enable the car to navigate and respond to its environment intelligently.
+Designed to operate efficiently on limited hardware, this project integrates machine learning, computer vision, and embedded systems to enable the car to navigate and respond to its environment intelligently.
 
 Key Features:
 
